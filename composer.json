@@ -30,7 +30,7 @@
         "siu/manejador-salida-toba": "~1.1",
         "siu/security-multitool": "~1.1",
         "symfony/yaml": "~4.4",
-        "vlucas/phpdotenv": "~3.6"
+        "vlucas/phpdotenv": "~5.0"
     },
     "conflict": {
         "siu/arai-cli": "<3.0.0",
